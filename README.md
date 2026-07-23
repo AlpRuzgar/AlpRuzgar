@@ -20,10 +20,7 @@ I've also developed several interactive games and educational projects including
 
 - **GuessTheFlag** - A Swift-based iOS app for learning world geography through flag identification
 - **Archery** - A JavaScript arcade-style game featuring archery mechanics and physics-based gameplay
-- **doodle-jump** - A JavaScript implementation of the popular mobile jumping game
-- **Jumping-Man** - A platformer game built with JavaScript featuring character movement and obstacle navigation
 - **toptan-jumper** - Another jumping game project showcasing game mechanics in JavaScript
-- **double-on-17-support** - A BlackJack strategy resource built with HTML
 - **Character-Guessing-name** - An interactive guessing game for character identification
 
 ## 💻 Tech Stack
